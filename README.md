@@ -12,11 +12,6 @@
  <a href="https://www.linkedin.com/in/petar-petrov-6835341a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="PetarPetrov93" height="30" width="40" /></a>
 </p>
 
-<p align="left">
-  <a> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a> 
-</p>
 <br/>
 
 <!--p align="right">
@@ -26,5 +21,5 @@
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=PetarPetrov93&show_icons=true&locale=en&theme=synthwave" alt="PetarPetrov93" width="45%" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=PetarPetrov93&theme=synthwave" alt="PetarPetrov93" width="47.5%" />
+  
 </p>
