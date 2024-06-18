@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Petar 👋</h1>
-<h3 align="center">SoftUni student</h3>
+<h3 align="center">SoftUni student.</h3>
+<h3 align="center">I've recently started working on my project called "The Real Deal Gym" which is the final step to finishing the full SoftUni C# Web developer program.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PetarPetrov93&label=Profile%20views&color=0e75b6&style=flat" alt="PetarPetrov93" /> </p>
 
